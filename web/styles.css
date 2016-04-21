@@ -1,0 +1,617 @@
+
+p, ul, dl, form, input, textarea, select, label {
+
+}
+
+.navmenu dt {
+    background-color: #EEEEEE;
+    font-weight: bold;
+
+}
+
+.navmenu dd {
+    border-bottom: 1px solid #E3E3E3;
+    list-style-type: none;
+
+}
+
+dl dt {
+    font-weight: bold;
+}
+
+a:link {
+    text-decoration: none;
+    color: blue;
+}
+
+a:visited {
+    text-decoration: none;
+    color: blue;
+}
+
+.xml {
+    background-color: #FFFFFF;
+    border: 1px solid Black;
+    font-family: Verdana;
+
+    position: relative;
+    z-index: 5;
+}
+
+p.submit {
+
+}
+
+h1 {
+    font-size: 1.5em;
+
+}
+
+h1 {
+
+}
+
+h4 {
+    border-bottom: 2px solid #DDDDDD;
+}
+
+h4 {
+    font-size: 1.2em;
+
+}
+
+h4 {
+    font-size: 1.2em;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #111111;
+    font-weight: normal;
+}
+
+body {
+    border: 0 none;
+    font-family: inherit;
+    font-size: 90%;
+    font-style: inherit;
+    font-weight: inherit;
+
+    vertical-align: baseline;
+    font-family: Arial;
+}
+
+.container {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #DDDDDD;
+    border-radius: 5px 5px 5px 5px;
+
+}
+
+.header {
+    border: 1px solid #cccccc;
+
+    font-size: 80%;
+}
+
+.login {
+    font-family: Arial;
+    float: right;
+    position: relative;
+
+}
+
+.login a:hover {
+    color: lightsteelblue
+}
+
+.loginfailed {
+    background: none repeat scroll 0 0 #FBE3E4;
+    border: 2px solid #FBC2C4;
+    color: #8A1F11;
+    font-size: 80%;
+
+}
+
+.guestbox {
+    text-align: center;
+
+    float: left;
+
+    border: 1px solid #327BBA;
+    background: none repeat scroll 0 0 blanchedalmond
+}
+
+.guestbox div {
+
+}
+
+.guestbox a:hover {
+    color: lightsteelblue
+}
+
+.topSearchBox {
+    border-bottom: 1px solid #DDDDDD;
+
+}
+
+.topbar {
+    background: #1079C9;
+
+}
+
+.topbar-resultList {
+
+}
+
+#logo {
+    background: url("../web/vufind-logo.png") no-repeat scroll left center transparent;
+    float: left;
+
+}
+
+.content {
+
+    border-top: 1px solid #DDDDDD;
+    background-color: whitesmoke;
+}
+
+#toptabcontent {
+    border: 1px solid #CDCDCD;
+    clear: left;
+
+    background: white;
+}
+
+.error {
+    color: red;
+}
+
+.span-5 {
+
+}
+
+.searchHomeContent {
+
+    text-align: left;
+
+}
+
+.searchHomeForm {
+
+    background-color: #E3E9EE;
+    border: 2px solid #327BBA;
+}
+
+div.searchHomeForm
+div.searchform {
+
+}
+
+.header, .searchbox, .breadcrumbs, .main, .footer {
+
+}
+
+.searchbox, .breadcrumbs, .main, .footer {
+    border-top: 1px solid #DDDDDD;
+}
+
+.version {
+    text-align: right;
+    font-size: 85%;
+    color: lightgray;
+
+    position: relative;
+}
+
+.floatleft {
+    float: left;
+}
+
+.Granular-Data-Table {
+    display: none;
+}
+
+.granular-data-link {
+    border: 1px solid #DDDDDD;
+}
+
+.table {
+    display: table;
+
+    background-color: white;
+}
+
+.table-row {
+    border-bottom: 1px solid #EEEEEE;
+
+}
+
+.table-cell {
+    display: table-cell;
+
+    vertical-align: top;
+
+}
+
+.top-menu {
+
+}
+
+.menu {
+
+    float: right;
+}
+
+.filters,
+.facets {
+
+}
+
+.facet-values {
+
+    display: none;
+}
+
+.facet-label dt {
+    background-color: #EEEEEE;
+    font-weight: bold;
+
+}
+
+.facet-label dd {
+    border-bottom: 1px solid #E3E3E3;
+    list-style-type: none;
+
+}
+
+.facet-values dt {
+    background-color: #EEEEEE;
+    font-weight: bold;
+
+}
+
+.facet-values dd {
+    border-bottom: 1px solid #E3E3E3;
+    list-style-type: none;
+
+}
+
+.facet-values p {
+
+}
+
+.filters p {
+
+}
+
+ul.filters {
+    background-color: orange;
+    color: white;
+    list-style-type: none;
+
+}
+
+.results {
+
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+}
+
+.result:nth-child(2n+0) {
+    background-color: #eeeeee;
+}
+
+.record-id {
+
+    text-align: center;
+}
+
+.pubtype {
+
+    display: table-cell;
+
+    vertical-align: top;
+}
+
+.info {
+
+}
+
+.title {
+
+}
+
+.abstract {
+
+}
+
+.full-abstract {
+
+    display: none;
+}
+
+.authors {
+
+}
+
+.subjects {
+
+}
+
+.links {
+
+}
+
+.custom-links {
+
+}
+
+.custom-links ul {
+    list-style-type: none;
+}
+
+.custom-links ul li {
+    float: left;
+}
+
+.pagination {
+    color: black !important;
+
+    text-align: center;
+}
+
+.pagination a {
+    display: inline-block;
+
+    color: #327BBA !important;
+}
+
+.pagination p {
+
+}
+
+.optionsControls {
+
+    font-size: 80%;
+}
+
+.optionsControls ul {
+
+    list-style: none outside none;
+}
+
+.optionsControls .options-controls-li {
+    float: left;
+
+    position: relative;
+}
+
+.sort-toggle {
+    color: black;
+    display: inline-block;
+    font-weight: bold;
+
+    cursor: pointer;
+
+    position: relative;
+    float: right;
+}
+
+.page-toggle {
+    color: black;
+    display: inline-block;
+    font-weight: bold;
+
+    cursor: pointer;
+
+    position: relative;
+    float: right;
+}
+
+.sortOptionWrapper {
+    position: absolute;
+    top: 26px;
+    right: 0px;
+    clear: both;
+    content: ".";
+    display: block;
+
+    visibility: hidden;
+    background-color: white;
+    background-repeat: repeat;
+    border-color: #1079C9 !important;
+    border-style: solid;
+
+    z-index: 222;
+}
+
+.sortOptions {
+    border: 1px solid #CCCCCC;
+    list-style: none outside none;
+
+}
+
+.sortOptions li {
+
+}
+
+.pageOptionsWrapper {
+    position: absolute;
+    top: 26px;
+    right: 0px;
+    clear: both;
+    content: ".";
+    display: block;
+
+    visibility: hidden;
+    background-color: white;
+    background-repeat: repeat;
+    border-color: #1079C9 !important;
+    border-style: solid;
+
+    z-index: 222;
+}
+
+.pageOptions {
+    border: 1px solid #CCCCCC;
+    list-style: none outside none;
+
+    border-style: none solid solid;
+
+}
+
+.sub-section {
+    position: relative;
+    background: none repeat scroll 0 0 transparent;
+    border: 0 none;
+    font-size: 100%;
+
+    outline: 0 none;
+
+    vertical-align: baseline;
+}
+
+.sub-section-header {
+    background-color: #DDDDDD;
+    border-left: medium none;
+    border-right: 0 none;
+    clear: both;
+    color: #777777;
+
+    font-weight: bold;
+
+}
+
+.sub-section-contents {
+
+}
+
+.column {
+
+}
+
+.two-column {
+
+}
+
+.three-column {
+    text-align: center;
+
+    float: left;
+    border-color: black !important;
+    border-style: solid;
+
+}
+
+.arrow {
+    background: url("../web/arrow-sprites.png") no-repeat scroll -3px -992px transparent;
+    color: #D8A02A;
+    display: block;
+    left: inherit;
+
+    position: absolute;
+    right: 0px;
+    top: 5px;
+}
+
+.results-paging-next {
+    background: url("../web/arrow-sprites.png") no-repeat scroll right -500px transparent;
+
+    text-indent: -999em;
+
+}
+
+.results-paging-previous {
+    background: url("../web/arrow-sprites.png") no-repeat scroll left -550px transparent;
+    overflow: hidden;
+    text-indent: -999em;
+
+}
+
+.resultsIframe {
+    display: none;
+
+}
+
+.clickbar {
+
+    border: 1px solid #CDCDCD;
+}
+
+.record {
+
+}
+
+.label {
+
+}
+
+.data {
+
+}
+
+.jacket {
+    float: left;
+}
+
+.highlight {
+    font-weight: bold;
+    text-underline: dash;
+}
+
+.summery {
+
+}
+
+.statistics {
+    float: left;
+}
+
+.record .toolbar {
+    font-size: 1em;
+}
+
+.toolbar {
+    border-bottom: 1px solid #EEEEEE;
+    font-size: 90%;
+
+    text-align: right;
+}
+
+.span-15 {
+
+    float: left;
+
+}
+
+.table-cell-box {
+    border: 1px solid #cccccc;
+    list-style-type: none;
+
+}
+
+.table-cell-box li {
+
+}
+
+.icon.pdf {
+    background-position: 0 -84px;
+}
+
+.icon {
+    background: url("../web/sprites_32.png") no-repeat scroll left top transparent;
+    display: inline-block;
+
+}
+
+.icon.html {
+    background-position: 0 -42px;
+}
+
+.icon {
+    background: url("../web/sprites_32.png") no-repeat scroll left top transparent;
+    display: inline-block;
+
+}
